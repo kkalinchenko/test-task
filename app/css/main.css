@@ -1,0 +1,9 @@
+body {
+  color: #fff; }
+
+body {
+  background: pink;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
